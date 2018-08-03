@@ -13,7 +13,7 @@ This program will also write the username of whoever is logged in on the compute
 
 Output Example Below:
 (username)   (current date and time when program was ran)
-(Employee name): 	7     This number is the row position of the employee in “Employee List” file in case it needs to be checked.
+(Employee name): 	7 <--This number is the row position of the employee in “Employee List” file in case it needs to be checked.
  
 boo   8/2/2018 1:10 PM
 Bob: 	5
