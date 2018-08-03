@@ -16,7 +16,7 @@ Output Example Below:
 (Employee name): 	7 <--This number is the row position of the employee in “Employee List” file in case it needs to be checked.
  
 boo   8/2/2018 1:10 PM
-Bob: 	5
-Joe: 	2
-Bill: 	8
-Fred:	10
+Bob: 	 5
+Joe: 	 2
+Bill:  8
+Fred:	 10
