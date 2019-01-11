@@ -1,6 +1,6 @@
 This program was wrote to randomly pick employees for drug tests and write the data to a text file for record keeping. This program/project was created because my mom asked me I could write something to help her at work.
 
-Anyone and every one is free to use program. I only ask that I be given credit if used by anyone else. There are no copyrights or anything attached to this program/project.
+Anyone and everyone is free to use program. I only ask that I be given credit if used by anyone else. There are no copyrights or anything attached to this program/project.
 
 In this folder, you will find the .exe all of the code for the randomPersonGenerator that uses the command line interface.
 
@@ -18,7 +18,7 @@ The data is wrote to a text file on the desktop called “Choosen People.txt”.
 
 This program will also write the username of whoever is logged in on the computer, along with the date and time.
 
-Output Example Below: (username) (current date and time when program was ran) (Employee name): 7 <--This number is the row position of the employee in “Employee List” file in case it needs to be checked.
+Output Example Below: (username) (current date and time when program was ran) (Employee name): 7 <--This number is the row position of the person in “People List.txt” file in case it needs to be checked.
 
 *EXAMPLE*
 boo 8/2/2018 1:10 PM
