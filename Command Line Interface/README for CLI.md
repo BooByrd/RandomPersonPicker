@@ -23,7 +23,7 @@ Output Example Below: (username) (current date and time when program was ran) (E
 
 *EXAMPLE*
 boo 8/2/2018 1:10 PM
-Bob:	5
-Joe:	2
-Bill:	8
-Fred:	10
+Bob:	5  
+Joe:	2  
+Bill:	8  
+Fred:	10  
