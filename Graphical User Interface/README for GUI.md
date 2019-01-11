@@ -24,3 +24,10 @@ The output file name will not allow you to exceed a 239 character limit. You als
 Click the "Output File Path" button and select where you want the output file to be put. You can't type out the output file location in the box to the right. If the output file location exceeds the 239 character limit, the output file location will default to your desktop.
 
 *Number of people to draw*  
+This input box is blank but the default value is 1 and it will only accept whole numbers (ex. 1, 2, 3, etc...). There will be an alert if you enter something the code doesn't like.
+
+*Generate*  
+Clicking this button will generate data based on your input data. Plus write the data if you have the check box checked.
+
+*Reset*  
+This will reset the whole form as if you just started the program.
