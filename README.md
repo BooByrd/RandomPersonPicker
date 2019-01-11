@@ -3,4 +3,4 @@ This program was wrote to randomly pick employees for drug tests and write the d
 
 Anyone and everyone is free to use program. I only ask that I be given credit if used by anyone else. There are no copyrights or anything attached to this program/project.
 
-The command line interface of htis program can be found in the folder named "Command Line Interface" and make sure to read "README for CMD.md"
+The command line interface of htis program can be found in the folder named "Command Line Interface" and make sure to read "README for CLI.md"
