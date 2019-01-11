@@ -3,7 +3,7 @@ This program was wrote to randomly pick employees for drug tests and write the d
 
 Anyone and everyone is free to use program. I only ask that I be given credit if used by anyone else. There are no copyrights or anything attached to this program/project.
 
-In this folder, you will find the .exe all of the code for the randomPersonGenerator that uses the command line interface.
+In this folder, you will find the .exe and all of the code for the randomPersonGenerator that uses the command line interface.
 
 If you only want the program itself, download "randomPersonGenerator.exe" and read the directions below before running this program.
 
