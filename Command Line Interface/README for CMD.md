@@ -1,3 +1,5 @@
+#README for CMD
+
 This program was wrote to randomly pick employees for drug tests and write the data to a text file for record keeping. This program/project was created because my mom asked me I could write something to help her at work.
 
 Anyone and everyone is free to use program. I only ask that I be given credit if used by anyone else. There are no copyrights or anything attached to this program/project.
@@ -21,13 +23,8 @@ This program will also write the username of whoever is logged in on the compute
 Output Example Below: (username) (current date and time when program was ran) (Employee name): 7 <--This number is the row position of the person in “People List.txt” file in case it needs to be checked.
 
 *EXAMPLE*
-
 boo 8/2/2018 1:10 PM
-
 Bob:	5
-
 Joe:	2
-
 Bill:	8
-
 Fred:	10
