@@ -1,4 +1,4 @@
-#README for CMD
+#README
 
 This program was wrote to randomly pick employees for drug tests and write the data to a text file for record keeping. This program/project was created because my mom asked me I could write something to help her at work.
 
